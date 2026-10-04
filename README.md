@@ -24,7 +24,7 @@
 
 This project builds a **Retrieval-Augmented Generation (RAG)** system from scratch using:
 - **LangChain** — for loading PDFs, splitting text, and embedding
-- **ChromaDB** — as a local vector database (no server, no cloud)
+- **ChromaDB** — as a local vector database (not on cloud)
 - **LangGraph** — to wire it all into a stateful, traceable pipeline
 
 It is structured as **3 progressive tasks**, each building on the previous one, so you can understand exactly what is happening at every step before moving forward.
