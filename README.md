@@ -114,7 +114,7 @@ rag-langgraph-pipeline/
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/aparneshgaurav/RagLangGraphLangSmithHITLandProdLogsErrorTraceGuidedPatchedAgents.git
+git clone https://github.com/aparneshgaurav/RagLangGraphLangSmithHITLProdLogsErrorTraceGuidedPatchedAgents.git
 cd rag-langgraph-pipeline
 
 # 2. Create a virtual environment
